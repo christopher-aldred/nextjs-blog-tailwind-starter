@@ -7,9 +7,9 @@ backend:
 # publish_mode: editorial_workflow
 
 editor:
-  preview: false
+  preview: true
 
-display_url: https://design-code.tips # This url will display in the top-right of the CMS
+display_url: https://decap-blog-example.netlify.app # This url will display in the top-right of the CMS
 media_folder: 'public/media' # Media files will be stored in the repo under static/media
 public_folder: '/media' # The src attribute for uploaded media will begin with /media
 collections:
